@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(117, 181, 200);
+}
+
+.page-section {
+    background-color: rgb(59, 112, 130);
+    opacity: .85;
+  }
+
+.btn-xl{
+    background-color: rgb(92, 92, 70);
+}
+
+.bold-text{
+    font-weight: bold;
+}
+
+.not-bold{
+    font-weight: 400;
+}
+
+.left-text{
+    text-align: left;
+}
